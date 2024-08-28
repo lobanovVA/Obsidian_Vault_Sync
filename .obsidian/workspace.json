@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6397c41085ed9b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31fce2b336e77ac8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия/ЛСивлИС.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Моя первая заметка обсидиан.md",
+                "file": "Без названия/ЛСивлИС.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Моя первая заметка обсидиан.md",
+                "file": "Без названия/ЛСивлИС.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Моя первая заметка обсидиан.md"
+                "file": "Без названия/ЛСивлИС.md"
               }
             }
           }
@@ -148,6 +173,11 @@
   },
   "active": "c67324128035ee42",
   "lastOpenFiles": [
-    "Моя первая заметка обсидиан.md"
+    "Pasted image 20240828162023.png",
+    "Без названия.md",
+    "Без названия/ЛСивлИС.md",
+    "Моя первая заметка обсидиан.md",
+    "Без названия",
+    "ааа"
   ]
 }
